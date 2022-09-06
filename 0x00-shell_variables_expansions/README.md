@@ -1,1 +1,1 @@
-task o
+alias
